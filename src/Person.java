@@ -18,7 +18,7 @@ public class Person {
     }
 
 
-    // Write setter method for age;
+
 
     public static void main(String[] args) {
         Person p1 = new Person("Prof. Albert Einstein", "Male");
